@@ -1,0 +1,30 @@
+{
+  "name": "csci5410_a3_part_c_code",
+  "version": "1.0.0",
+  "description": "CSCI5410 A3 Part C Code - Event driven serverless application using AWS Comprehend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aws",
+    "s3",
+    "lambda",
+    "comprehend",
+    "csci5410",
+    "serverless-data-processing",
+    "sdp",
+    "amazon",
+    "dalhousie-university",
+    "dal"
+  ],
+  "author": "Dhrumil Amish Shah",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1026.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "multer": "^1.4.3"
+  }
+}
