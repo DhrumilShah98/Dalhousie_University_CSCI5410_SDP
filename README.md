@@ -1,5 +1,5 @@
-# Dalhousie University | CSCI5410 | SDP (Serverless Data Processing)
-All assignments and the final project are completed in class CSCI5410 (Serverless Data Processing) of MACS at Dalhousie University. CSCI 5410 SDP Dalhousie University.<br/>
+# Dalhousie University | CSCI 5410 | SDP (Serverless Data Processing)
+All assignments and the final project are completed in class CSCI 5410 (Serverless Data Processing) of MACS at Dalhousie University. CSCI 5410 SDP Dalhousie University.<br/>
 Final Letter Grade Received: **A**
 
 ## Authors
